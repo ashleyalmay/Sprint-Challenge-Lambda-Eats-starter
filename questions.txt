@@ -1,0 +1,10 @@
+In 1-2 sentences, explain what React's useRouteMatch hook is used for.
+-This is use for pathing to other pages
+Ex: import React, {useState, useEffect} from "react";
+
+How would you explain form validation to someone who has never programmed before?
+-Form validation is really to make sure your code is running right before you make the page live. 
+
+In 1-2 sentences, define end to end testing.
+-End to end testing,  tested the flow of the code and ensures all the code is flowing correctly.
+
